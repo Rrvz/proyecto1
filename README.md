@@ -33,6 +33,13 @@ Proyecto uses a number of open source projects to work properly:
 * Incluye en linux y mac
 * para todas las edades
 
+# new amend test for commits
+* Mio 1
+* Mio 2
+ /
+* new change for commit
+
+
 ## Y nada este es el fin, mediocre si, pero el fin.
 
 # Pero recuerda que este repo es chiste, es para aprender no lo tomes en serio.
