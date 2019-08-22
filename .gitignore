@@ -1,6 +1,7 @@
 *.passwd
 *.pdf
 
+*.mkv
 
 # Created by https://www.gitignore.io/api/go,c++,python
 # Edit at https://www.gitignore.io/?templates=go,c++,python
