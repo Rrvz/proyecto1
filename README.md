@@ -28,7 +28,7 @@ Proyecto uses a number of open source projects to work properly:
 # Equipos que trabajan aqui, con el proyecto
 * Rrvz
 * Equipo Platzi
-* Nuevo Yankeiris, Melbin, Yicauris
+
 
 ## Y nada este es el fin, mediocre si, pero el fin.
 
