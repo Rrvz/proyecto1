@@ -5,7 +5,7 @@ Proyecto is a repo for testing git and github for the platzi course.
   - Un poco a la izquierda
   - HTML tags
   - Magia
-  
+
 
 ### Proyecto1
 
@@ -28,3 +28,5 @@ Proyecto uses a number of open source projects to work properly:
 
 
 ## Y nada este es el fin, mediocre si, pero el fin.
+
+# Pero recuerda que este repo es chiste, es para aprender no lo tomes en serio.
