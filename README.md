@@ -11,9 +11,9 @@ Proyecto is a repo for testing git and github for the platzi course.
 
 Proyecto uses a number of open source projects to work properly:
 
-* [ViM] - Vi Improved
-* [GIT] - for versioning
-* [GIT] - for versioning
+* [ViM](https://www.vim.org) - Vi Improved
+* [GIT](https://github.com) - for versioning
+* [GITLAB](https://gitlab.com) - for versioning
 
 * [AngularJS] - HTML enhanced for web apps!
 * [Ace Editor] - awesome web-based text editor
