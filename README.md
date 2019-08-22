@@ -25,7 +25,8 @@ Proyecto uses a number of open source projects to work properly:
 * [Breakdance](http://breakdance.io) - HTML to Markdown converter
 * [jQuery] - duh
 
-
+# Equipos que trabajan aqui
+* Rrvz
 
 ## Y nada este es el fin, mediocre si, pero el fin.
 
