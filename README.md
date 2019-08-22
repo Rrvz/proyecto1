@@ -30,6 +30,7 @@ Proyecto uses a number of open source projects to work properly:
 * Equipo Platzi
 * Yankeiris, Melbin, Yicauris
 * Ivan e Ivanna
+* Incluye en linux y mac
 
 ## Y nada este es el fin, mediocre si, pero el fin.
 
