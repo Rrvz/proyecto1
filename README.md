@@ -31,6 +31,7 @@ Proyecto uses a number of open source projects to work properly:
 * Yankeiris, Melbin, Yicauris
 * Ivan e Ivanna
 * Incluye en linux y mac
+* para todas las edades
 
 ## Y nada este es el fin, mediocre si, pero el fin.
 
