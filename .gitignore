@@ -1,6 +1,6 @@
 *.passwd
 *.pdf
-
+*.mp3
 
 # Created by https://www.gitignore.io/api/go,c++,python
 # Edit at https://www.gitignore.io/?templates=go,c++,python
